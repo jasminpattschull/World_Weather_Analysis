@@ -1,3 +1,8 @@
+#Adding config.py file.
+config.py
+#Adding API_practice and random_numbers files.
+API_practice.ipynb
+random_numbers.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
