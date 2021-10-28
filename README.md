@@ -9,11 +9,17 @@ The scope of the project was to add a weather description to the weather data th
 ## Results
 The initial analysis provided roughly 737 randomized latitudes and longitudes. The associated maximum temperature, humidity, cloudiness, windiness and country were provided and was exported into a CSV file.
 
-To further narrow in on the travel itinery provided, the inputs of a minimum and maximum temperature were provided of 75 and 90, respectively. Any empty rows were removed from the data and loding was searched for within 5000 meters and was exported into a CSV file.
+To further narrow in on the travel itinery provided, the inputs of a minimum and maximum temperature were provided of 75 and 90, respectively. Any empty rows were removed from the data and lodging was searched for within 5000 meters and was exported into a CSV file.
+
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/90632470/139317886-5a859c7f-fa39-4a09-b633-4db6e8b735b3.PNG)
 
 In the final analysis, markers were displayed for these coordinates.
 
 Four cities were selected and the travel itinerary was provided for a trip to Brazil. The travel mode selected was for driving. The hotels are marked on the map as well for ease of travelling.
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/90632470/139317822-370a0e7c-8da8-46bc-855e-620ee7b37afb.png)
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/90632470/139317808-aab282a2-a09a-484a-8954-f7d1343ca8a2.png)
 
 ## Summary
 
